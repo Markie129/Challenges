@@ -1,0 +1,4 @@
+name: YOUTUBE-1
+version: '${project.version}'
+main: com.snowrpion.youtube1.YOUTUBE_1
+api-version: 1.19
